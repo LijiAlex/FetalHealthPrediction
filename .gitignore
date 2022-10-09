@@ -9,7 +9,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-notebook/
 housing/artifact/
 develop-eggs/
 dist/
