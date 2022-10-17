@@ -1,5 +1,8 @@
 # FetalHealthPrediction
 
+## Problem Statement
+Classify fetal health to avoid the abnormalities for the child and mother while giving birth based on an input CSV consisting of 22 columns.
+
 ### Summary
 Classification Problem
 Accuracy: 93% - 96% (different cv methods)
